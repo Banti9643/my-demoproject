@@ -1,0 +1,1 @@
+'using partitioning is a good thing because it improves our optimization and clustering try to use' 
